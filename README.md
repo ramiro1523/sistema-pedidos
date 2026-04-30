@@ -1,2 +1,2 @@
-# Sistema de pedidos de comida - Cusco
+# Sistema de pedidos 
 Sistema en desarrollo
