@@ -1,32 +1,31 @@
-# Sistema de pedidos 
 # Sistema de Pedidos
 
-## Descripción
+## 📌 Descripción
 
-Sistema básico para gestionar pedidos 
+Sistema básico para gestionar pedidos de una empresa, permitiendo organizar y controlar solicitudes de manera sencilla.
 
-## Objetivo
+## 🎯 Objetivo
 
-Aplicar control de versiones usando Git y GitHub.
+Aplicar control de versiones utilizando Git y GitHub en el desarrollo de un proyecto básico.
 
-## Herramientas
+## 🛠️ Herramientas
 
 * Git
 * GitHub
 
-## Autores
+## 👨‍💻 Autores
 
-Ramiro
-Anghelo
-Gian Marco
-David Ali
+* Ramiro
+* Anghelo
+* Gian Marco
+* David Ali
 
-## Versiones
+## 📈 Versiones
 
-* v1.0: Primer commit
-* v1.1: Actualización README
-* v1.2: Archivo base agregado
+* v1.0: Creación del repositorio
+* v1.1: Actualización del README
+* v1.2: Agregado archivo base
 
+## 🧠 Reflexión
 
-Git permite controlar cambios y trabajar en equipo sin perder información. Evita errores, pérdida de código y conflictos de versiones.
-
+Git permite controlar los cambios del proyecto y facilita el trabajo en equipo sin perder información. Además, ayuda a evitar errores y conflictos entre versiones.
